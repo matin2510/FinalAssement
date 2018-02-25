@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="welcome_message">25sp</dimen>
+    <dimen name="cardView_textSize">20sp</dimen>
+    <dimen name="margin_leftCardV">10dp</dimen>
+    <dimen name="bottom_margin_cardV">10dp</dimen>
+    <dimen name="image_size">100dp</dimen>
+</resources>
